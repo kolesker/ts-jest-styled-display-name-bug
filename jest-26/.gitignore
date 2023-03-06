@@ -2,7 +2,6 @@
 
 !__mocks__/*
 *.js.map
-/design/*.js
 coverage
 dist
 .env
@@ -16,11 +15,6 @@ build
 *.iml
 node_modules
 .editorconfig
-
-# ignore local cert
-ring.site.key
-ring.site.cert
-ring.site.der
 
 # MacOS
 .DS_Store
