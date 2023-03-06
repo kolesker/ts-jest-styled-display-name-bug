@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component it should match mount snapshot 1`] = `
+"<Component>
+  <StyledExample>
+    <div className=\\"sc-beySbM AIKwo\\" />
+  </StyledExample>
+</Component>"
+`;

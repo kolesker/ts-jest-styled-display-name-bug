@@ -1,0 +1,31 @@
+# Ignore build output
+
+!__mocks__/*
+*.js.map
+/design/*.js
+coverage
+dist
+.env
+imagedefinitions.json
+build
+
+# next
+.next
+
+.idea
+*.iml
+node_modules
+.editorconfig
+
+# ignore local cert
+ring.site.key
+ring.site.cert
+ring.site.der
+
+# MacOS
+.DS_Store
+
+env
+
+# IDE settings
+.vscode/*

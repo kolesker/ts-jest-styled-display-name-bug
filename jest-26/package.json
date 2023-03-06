@@ -1,0 +1,42 @@
+{
+  "name": "ts-jest-styled-display-name-bug",
+  "version": "0.0.1",
+  "description": "Bug example of ts-jest ignoring displayName of babel-styled-components plugin",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kolesker/ts-jest-styled-display-name-bug.git"
+  },
+  "author": "k.olesker@gmail.com",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "next": "^9.5.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "styled-components": "^5.3.6",
+    "styled-normalize": "^8.0.7"
+  },
+  "devDependencies": {
+    "@types/enzyme": "^3.10.3",
+    "@types/enzyme-adapter-react-16": "^1.0.5",
+    "@types/jest": "^26.0.24",
+    "@types/react": "^16.9.9",
+    "@types/react-dom": "^16.9.2",
+    "@types/react-test-renderer": "^16.9.5",
+    "@types/styled-components": "^5.1.26",
+    "babel-plugin-styled-components": "^2.0.7",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1",
+    "enzyme-to-json": "^3.6.1",
+    "jest": "^26.6.3",
+    "jest-styled-components": "^7.1.1",
+    "react-test-renderer": "^16.14.0",
+    "ts-jest": "^26.5.6",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.10.0",
+    "tslint-react": "^5.0.0",
+    "typescript": "^4.6.4"
+  }
+}
